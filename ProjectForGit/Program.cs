@@ -10,7 +10,8 @@ namespace ProjectForGit
     {
         static void Main(string[] args)
         {
-             
+            //1 задачу выполнил
+            Console.WriteLine("1");
         }
     }
 }
