@@ -16,6 +16,7 @@ namespace ProjectForGit
             // task 4 completed
             // task 5 completed
             // task 6 completed
+            // task 7 completed
         }
     }
 }
