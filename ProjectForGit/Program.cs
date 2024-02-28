@@ -10,8 +10,7 @@ namespace ProjectForGit
     {
         static void Main(string[] args)
         {
-            //Сделал подзадачу N1
-            //Сделал подзадачу N2
+            
         }
     }
 }
